@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "echarts": "^4.7.0",
     "element-ui": "^2.13.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "vue": "^2.5.2",
     "vue-custom-element": "^3.2.14",
     "vue-router": "^3.0.7",
